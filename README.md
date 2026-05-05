@@ -1,16 +1,32 @@
-## Hi there 👋
+README del perfil
+Edmundo Fraga
+About me
 
-<!--
-**EdmundoFraga/EdmundoFraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soc Edmundo Fraga, estudiant de CFGS d’Administració de Sistemes Informàtics en Xarxa (ASIR). M’interessa especialment l’administració de sistemes, les xarxes, la virtualització i el desplegament de serveis. M’agrada treballar en projectes pràctics on puc aplicar coneixements reals de Linux, serveis de xarxa i entorns virtualitzats. Actualment continuo ampliant experiència en infraestructures, routing, serveis i desplegament web.
 
-Here are some ideas to get you started:
+Tecnologies i eines
+Linux / Ubuntu Server
+Windows Server
+HTML5
+CSS3
+Git i GitHub
+VirtualBox
+BIND9
+Vercel
+Bash
+TCP/IP
+Routing
+DNS
+Subnetting
+Projectes destacats
+1. Currículum Vitae Online
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CV web professional desenvolupat amb HTML5 i CSS pur.
+
+2. Pràctica DNS Linux i Windows
+
+Configuració d’un entorn DNS Master/Slave amb validació de registres.
+
+3. Escenari e-commerce virtualitzat
+
+Infraestructura virtualitzada amb routing, ip forwarding i connectivitat entre xarxes.
