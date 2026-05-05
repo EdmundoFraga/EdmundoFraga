@@ -28,9 +28,9 @@ CV web professional desenvolupat amb HTML5 i CSS pur.
 ### 2. Pràctica DNS Linux i Windows
 
 Configuració d’un entorn DNS Master/Slave amb validació de registres.
-https://github.com/EdmundoFraga/practica-dns
+[https://github.com/EdmundoFraga/practica-dns](https://github.com/EdmundoFraga/Practica-DNS-Edmundo)
 
 ### 3. Escenari e-commerce virtualitzat
 
 Infraestructura virtualitzada amb routing, ip forwarding i connectivitat entre xarxes.
-https://github.com/EdmundoFraga/ecommerce-virtualitzat
+[https://github.com/EdmundoFraga/ecommerce-virtualitzat](https://github.com/EdmundoFraga/Escenario-Ecommerce-Edmundo)
