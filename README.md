@@ -23,7 +23,7 @@ Soc Edmundo Fraga, estudiant de CFGS d’Administració de Sistemes Informàtics
 ### 1. Currículum Vitae Online
 
 CV web professional desenvolupat amb HTML5 i CSS pur.
-https://github.com/EdmundoFraga/curriculum-vitae-online
+[https://github.com/EdmundoFraga/curriculum-vitae-online](https://github.com/EdmundoFraga/Cv-Online-Edmundo)
 
 ### 2. Pràctica DNS Linux i Windows
 
